@@ -3594,11 +3594,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msobani\\source\\repos\\IngotTask\\IngotBrokersTask\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\msobani\\Desktop\\EnterpriseHiringTask\\IngotBrokersTask\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\msobani\\source\\repos\\IngotTask\\IngotBrokersTask\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\msobani\\Desktop\\EnterpriseHiringTask\\IngotBrokersTask\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\msobani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msobani\\source\\repos\\IngotTask\\IngotBrokersTask\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\msobani\\Desktop\\EnterpriseHiringTask\\IngotBrokersTask\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
